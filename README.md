@@ -1,6 +1,6 @@
 ## Speak Ai Changelog
 
-Check out the (Speak Ai)[https://speakai.co] changelog to see product improvements from our team.
+Check out the [Speak Ai](https://speakai.co) changelog to see product improvements from our team.
 
 ## [Unreleased]
 
