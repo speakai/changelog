@@ -10,17 +10,17 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
 
 ## 25th March, 2022
 
-### Added
+#### Added
 
 - `Speak-App`:
   - Auto-populate `tags` in edit media section (search, filter or select already added tags in the account)
 
-## Updated
+#### Updated
 
 - `Speak-App`:
   - Embed media - sort functionality by `Total View`
 
-### Fixed
+#### Fixed
 
 - `Speak-App`:
   - Embed media - list delete (refresh page)
@@ -28,7 +28,7 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
 
 ## 22nd March, 2022
 
-### Fixed
+#### Fixed
 
 - `Speak-App`:
 
@@ -42,13 +42,13 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
 
 ## 18th March, 2022
 
-### Added
+#### Added
 
 - `Speak-App`:
   - Email analytics with the wordcloud and better view of insights
   - Search bar in the individual media insight page to find any insight or name
 
-### Updated
+#### Updated
 
 - `Speak-App`:
   - New Authentication user interfaces
@@ -56,7 +56,7 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
   - Separate view for the media instances
   - Title and icons in the header and sidebar
 
-### Fixed
+#### Fixed
 
 - `Speak-App`:
   - Auto renew subscription for users
@@ -64,7 +64,7 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
 
 ## 14th March, 2022
 
-### Added
+#### Added
 
 - `Speak-App`:
   - **New Embed Media page**:
@@ -77,7 +77,7 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
 
 ## 11th March, 2022
 
-### Added
+#### Added
 
 - `Speak-App`:
   - Default categories:
@@ -86,7 +86,7 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
     - Rename category option
     - Delete category option
 
-### Updated
+#### Updated
 
 - `Speak-App`:
   - Individual media insight:
@@ -95,7 +95,7 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
 
 ## 2nd March, 2022
 
-### Added
+#### Added
 
 - `Speak-App`:
   - Explore page:
@@ -105,7 +105,7 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
 
 ## 23rd Feb, 2022
 
-### Added
+#### Added
 
 - `Speak-App`:
   - **New Email notification page**:
@@ -113,7 +113,7 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
 
 ## 18th Feb, 2022
 
-### Added
+#### Added
 
 - `Speak-App`:
   - Upload media in background
@@ -121,15 +121,15 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
 
 ## 28th Jan, 2022
 
-### Fixed
+#### Fixed
 
 - `Speak-App`:
   - Create new folder image
   - Custom category display
 
-## 15th Jan
+## 15th Jan, 2022
 
-### Added
+#### Added
 
 - `Speak-App`:
   - **New Folder layout**
@@ -138,6 +138,8 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
   - Common media insight component for audio, video or text
   - Unassigned media concept introduced
   - Backend integration changes
+
+---
 
 ## API Documentation
 
