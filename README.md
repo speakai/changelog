@@ -31,13 +31,11 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
 #### Fixed
 
 - `Speak-App`:
-
   - Invalid duration (infinity) for `webm` file fixed during upload
   - Media table checkbox selection - prevent going to the insight page
   - Pricing page - Subscription name updated
 
 - `Speak-Embed-Recorder`:
-
   - Fix upload duration for `webm` file
 
 ## 18th March, 2022
@@ -133,11 +131,11 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
 
 - `Speak-App`:
   - **New Folder layout**
-  - Convert Audio, video and text to the folder layout
-  - Display - Create - Edit - Delete functionality
-  - Common media insight component for audio, video or text
-  - Unassigned media concept introduced
-  - Backend integration changes
+    - Convert Audio, video and text to the folder layout
+    - Display - Create - Edit - Delete functionality
+    - Common media insight component for audio, video or text
+    - Unassigned media concept introduced
+    - Backend integration changes
 
 ---
 
