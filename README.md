@@ -5,8 +5,17 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
 ## Unreleased
 
 - Embed Player / Library - Custom font style option
+- Embed Recorder:
+  - Screen sharing option
+  - Upload Text notes option
 - Improve insights analysis
-- Embed Recorder - Screen sharing option
+
+## 29th March, 2022
+
+#### Added
+
+- `speak-app`:
+  - Launched Vimeo Integration to sync videos; folders or showcases
 
 ## 25th March, 2022
 
@@ -31,6 +40,7 @@ Check out the [Speak Ai](https://speakai.co) changelog to see product improvemen
 #### Fixed
 
 - `Speak-App`:
+
   - Invalid duration (infinity) for `webm` file fixed during upload
   - Media table checkbox selection - prevent going to the insight page
   - Pricing page - Subscription name updated
